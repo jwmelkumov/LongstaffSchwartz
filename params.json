@@ -1,0 +1,14 @@
+{
+  "symbol": "AAPL",
+  "startDate": "2025-07-21",
+  "maturityDate": "2026-07-21",
+  "spot": 212.48,
+  "vol": 0.2275,
+  "rate": 0.03,
+  "strike": 220,
+  "optionType": "PUT",
+  "polyOrder": 3,
+  "steps": 252,
+  "paths": 100000
+}
+
